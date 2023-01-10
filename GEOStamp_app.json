@@ -6,25 +6,60 @@
       "app_showAds": "1",
       "app_dialogBeforeAdShow": "1",
       "app_showAdAppVersion": "1",
-      "app_clickCountAd": "2",
+      "app_clickCountAd": "10",
+
+      "appOpenAd": "1",
+      "interstitial": "0",
+      "nativeAd": "0",
+      "nativeBanner": "2",
+      "nativespacebox": "0",
+      "nativespaceboxColor": "ffffff",
+      "nativebg": "ffffff",
+      "nativetitle": "000000",
+      "nativebutton": "FFFF00",
+      "nativedescription": "000000",
+
+       "app_showAds": "2",
+      "app_clickCountAd": "5",
 
       "appOpenAd": "1",
       "interstitial": "1",
       "nativeAd": "1",
-      "nativeBanner": "1",
-      "nativespacebox": "1",
-      "nativespaceboxColor": "FFFFFF",
-      "nativebg": "FFFFFF",
-      "nativetitle": "000000",
-      "nativebutton": "000000",
-      "nativedescription": "000000",
+      "nativeBanner": "2",
+      "RewardedVideo": "2",
+    
+     
+      "AppID": "/6499/example",
 
-      "AppID": "ca-app-pub-6696719295870980~6890281445",
-      "Banner": "ca-app-pub-6696719295870980/2984063129",
-      "Interstitial": "ca-app-pub-6696719295870980/7342906697",
-      "Native": "ca-app-pub-6696719295870980/6540164755",
-      "RewardedVideo": "/6499/example/app-open",
-      "AppOpen": "ca-app-pub-6696719295870980/3914001411"
+       "Banner_1": "/6499/example", 
+       "Banner_2": "/6499/example",  
+       "Banner_3": "/6499/example",
+        "ad_ID_use": "3",                  how much ad id use for display ad ?  1 or 2 or 3 
+
+
+        "Interstitial_1": "/6499/example",
+        "Interstitial_2": "/6499/example",
+        "Interstitial_3": "/6499/example",
+         "ad_ID_use": "1",
+ 
+
+        "Native_1": "/6499/example",
+        "Native_2": "/6499/example",
+        "Native_3": "/6499/example",
+         "ad_ID_use": "1",
+
+     
+        "RewardedVideo_1": "/6499/example",
+        "RewardedVideo_2": "/6499/example",   
+        "RewardedVideo_3": "/6499/example",
+         "ad_ID_use": "1",
+
+
+        "AppOpen_1": "/6499/example"
+        "AppOpen_1": "/6499/example"
+        "AppOpen_1": "/6499/example"
+         "ad_ID_use": "1",
+
     }
   ],
   "_update comment": "0:None & 1:Normal & 2:Force",
